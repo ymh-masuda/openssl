@@ -223,7 +223,7 @@ providers/common/include/prov/der_sm2.h
 *.so.*
 *.dylib
 *.dylib.*
-*.dll
+# --- 240220 masuda add --- *.dll
 *.dll.*
 *.exe
 *.pyc
