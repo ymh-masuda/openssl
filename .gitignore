@@ -228,7 +228,7 @@ providers/common/include/prov/der_sm2.h
 *.exe
 *.pyc
 *.exp
-*.lib
+# --- 240220 masuda add --- *.lib
 *.pdb
 *.tds
 *.ilk
